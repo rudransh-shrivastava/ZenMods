@@ -1,2 +1,2 @@
 # Better Inactive Tabs
-<img width="173" height="100" alt="image" src="https://github.com/user-attachments/assets/c5d91b28-42a7-46d5-88c3-3ea75389f1a1" />
+<img width="600" height="400" alt="better-inactive-tabs-screenshot" src="https://github.com/user-attachments/assets/a505fab8-24bd-420d-a3e0-ca13d3f64f03" />
